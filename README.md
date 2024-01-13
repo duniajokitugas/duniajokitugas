@@ -16,12 +16,13 @@
             <li><a href=ulasan.html> Ulasan</a></li>
             <li><a href=pengumuman.html>Pengumuman</a></li>
         </ul>
+    <nav>
+        <ul>
+            <li><a href="#">Beranda</a></li>
+            <li><a href=ulasan.html> Ulasan</a></li>
+            <li><a href=pengumuman.html>Pengumuman</a></li>
+        </ul>
     </nav>
-
-    <section class="teks-beranda">
-        <h1>Dunia Joki Tugas, Solusi Untuk Tugas Menumpuk</h1>
-    </section>
-
     <section>
         <h2>Tugas Makalah</h2>
         <p>Menerima Joki Tugas Makalah</p>
