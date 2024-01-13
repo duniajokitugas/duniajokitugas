@@ -9,13 +9,7 @@
     <header>
         <h1>Selamat Datang di Dunia Joki Tugas</h1>
     </header>
-    
-    <nav>
-        <ul>
-           <li><a href="#">Beranda</a></li>
-            <li><a href=ulasan.html> Ulasan</a></li>
-            <li><a href=pengumuman.html>Pengumuman</a></li>
-        </ul>
+
     <nav>
         <ul>
             <li><a href="#">Beranda</a></li>
