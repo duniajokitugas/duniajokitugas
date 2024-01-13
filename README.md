@@ -13,8 +13,8 @@
     <nav>
         <ul>
             <li><a href="#">Beranda</a></li>
-            <li><a href=ulasan.html> Ulasan</a></li>
-            <li><a href=pengumuman.html>Pengumuman</a></li>
+            <li><a href="ulasan.html">Ulasan</a></li>
+            <li><a href="pengumuman.html">Pengumuman</a></li>
         </ul>
     </nav>
 
