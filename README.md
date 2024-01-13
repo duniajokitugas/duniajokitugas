@@ -71,7 +71,7 @@
         <p>Judul bisa dari pemesan atau dari kami</p>
         <p>Aturan-aturan dalam penulisan Artikel Ilmiah Seperti: jenis dan ukuran font, minimum plagiasi dan lainnya harus disampaikan</p>
         <p>Lama Pengerjaan 3 hari (48 Jam)</p>
-        <p>Harga Pengerjaan : Rp.145.000,- (termasuk harga cek turnitin)</p>
+        <p>Harga Pengerjaan : Rp.150.000,- sd Rp.250.000,- (tergantung waktu pengerjaan, jika ingin pengerjaan cepat, maka ada harga)</p>
         <a href="order.html">Order Now</a>
     </section>
 
