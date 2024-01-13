@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+header {
+    background-color:bisque;
+    color:rgb(185, 37, 37);
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    border: 1px solid #2c2727;
+    background-color: bisque;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #030202;
+    background-color: #f5e9e9;
+}
+
+section h2 {
+    color: rgb(221, 9, 9);
+    text-align: center;
+}
+
+footer {
+    background-color:cornsilk;
+    color: black
+    displa flex;
+    text-align:center;
+    justify-content: center;
+    padding: 1em;
+}
+
+.beranda-section {
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     
+       
+}
+
+.archive-1,
+.teks-beranda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.teks-beranda{
+    background-color: bisque;
+}
